@@ -1,0 +1,16 @@
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\bin\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.exe
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\bin\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.deps.json
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\bin\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.runtimeconfig.json
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\bin\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.dll
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\bin\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.pdb
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev_6___Berkay_İNAN.Form1.resources
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.csproj.GenerateResource.cache
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.AssemblyInfoInputs.cache
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.AssemblyInfo.cs
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.csproj.CoreCompileInputs.cache
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.dll
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\refint\Ödev 6 - Berkay İNAN.dll
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.pdb
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\Ödev 6 - Berkay İNAN.genruntimeconfig.cache
+C:\Users\Berkay İNAN\Source\Repos\Ödev 6 - Berkay İNAN\Ödev 6 - Berkay İNAN\obj\Debug\net6.0-windows\ref\Ödev 6 - Berkay İNAN.dll
